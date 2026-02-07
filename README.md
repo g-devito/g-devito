@@ -2,61 +2,14 @@
 
 **Cloud & System Engineer**
 
-I design, automate, and secure **modern infrastructure** using **Linux,
-Ansible, Docker, Cloud, and Security best practices**.
-My background blends **system engineering, cybersecurity, cloud, and
-enterprise IT**, with hands-on experience in **critical environments**.
+I design, automate and secure modern infrastructures using **Linux, Ansible, Docker, Cloud & Security best practices**.
 
-------------------------------------------------------------------------
+🛠 **Tech:** Linux · Ansible · Docker · Kubernetes · Azure · Bicep · Networking · FortiGate · Security Hardening  
 
-## 🚀 About Me
+🚀 **Featured Project:**  
+☁️ Azure Mesh Network (Bicep) → https://github.com/g-devito/azure-bicep-mesh-network  
+🌐 Azure Hub-Spoke Topology → https://github.com/g-devito/Azure-Hub-Spoke-Topology  
+🏠 Automated Homelab → https://github.com/g-devito/homelab  
 
--   🎓 Cyber Security Expert - ITS Lazio Digital Academy
--   🎓 BSc in Computer Engineering (in progress) - Università
-    Mercatorum
--   🏢 System Security Engineer Intern @ **Leonardo S.p.A.**
--   🧠 Strong focus on **Infrastructure as Code, Automation, Security
-    Hardening & Cloud Architecture**
--   🌍 Experience in **enterprise & international environments (Adobe
-    Inc.)**
 
-------------------------------------------------------------------------
-
-## 🛠 Tech Stack
-
-### 💻 Systems & OS
-
--   Linux (RHEL, Ubuntu, Debian, Arch)
--   Windows Server / Windows 11
--   systemd, SCCM, virtualization
-
-### ☁️ Cloud & IaC
-
--   Microsoft Azure
--   Bicep
--   Infrastructure as Code (IaC)
--   CI/CD fundamentals
-
-### 🐳 Containers & Automation
-
--   Docker & Docker Compose
--   Kubernetes (CKA in progress)
--   Ansible
-
-### 🔐 Security
-
--   FortiGate firewalls
--   Network segmentation (DMZ, VLAN)
--   IDS / IPS
--   Trellix EDR / Antivirus
--   Hardening & monitoring
-
-### 🌐 Networking
-
--   Cisco Routing & Switching
--   VPN (IPsec)
--   Firewall architecture
-
-------------------------------------------------------------------------
-
-> *"Automate everything. Secure by default. Learn continuously."*
+*"Automate everything. Secure by default."*
