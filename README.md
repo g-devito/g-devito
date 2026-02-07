@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Giovanni De Vito
+# 👋 Hi, I'm Giovanni
 
 **Cloud & System Engineer**
 
